@@ -1,6 +1,6 @@
 # Input and Output
 
-## 1. Concept in Your Own Words
+## 1. Concept 
 
 Input and output are used to make a program communicate with the user.
 

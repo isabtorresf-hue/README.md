@@ -15,6 +15,6 @@ Arrays are useful when we need to work with a list of information.
 ## 2. Key C# Syntax
 
 ```csharp
-string[] names = { "Anna", "John", "Maria" };
+string[] names = { "isa", "isabella", "bella" };
 
 Console.WriteLine(names[0]);

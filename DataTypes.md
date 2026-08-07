@@ -1,6 +1,6 @@
 # Data Types
 
-## 1. Concept in Your Own Words
+## 1. Concept 
 
 Data types define what type of information a variable can store.
 
